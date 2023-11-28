@@ -1,0 +1,12 @@
+[submodule "cabeceira-api"]
+    path = cabeceira-api
+    url = https://github.com/nlperri/cabeceira-api
+
+[submodule "cabeceira-web"]
+    path = cabeceira-web
+    url = https://github.com/nlperri/cabeceira-web
+
+[submodule "cypress-cabeceira"]
+    path = cypress-cabeceira
+    url = https://github.com/JoaoVitorSantDrade/cypress-cabeceira
+
